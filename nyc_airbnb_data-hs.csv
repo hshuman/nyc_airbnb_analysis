@@ -1,0 +1,20 @@
+Excetcutive Summary 
+"The following ananlysis is to determine which neighborhoods and property sizes are most attractive for vacation rentals in Manhatten, New York.  Pivot tables will be used to exmine the raw data.  The Top_10_Neighborhoods sheet below show the most attractive neighborhoods by summing up the total amount of reviews for each neighborhood.  The top three neighborhoods in the past year are Lower East Side, Hell's Kitchen, and Harlem.  The Most_Popular_Property_Size sheet below present the most booked properpity sizes in the past year.  The data shows properities with 1-bedroom (1,265 listings), 2-bedrooms (526 listings), and studios (526 listings) are three most popular sizes.  Pop_Neighborhood_v_Prop_Size exmines which properity sizes are more attractive in the top ten neighborhoods. These pivot tables conclude that single bedroom appartments in Lower East Side, Hell's Kitchen, Harlem, Upper West Side, Chelsa, East Village, East Harlem, West Village, and Uppper East Side are the most attractive vacation rental properities in Manhatten, New York; with one except. Midtown is also a highly rated neighborhood for vacation rentals but studios has the most bookings compare to other properity sizes. Secondly, this analysis will reveal how much money the most attractive listings generated.  The pivot table in Top_Listing_Monthly_Revenue shows how much each listing earned monthly.  The top ten neighborhoods accumulated $5,378 in revenue per month on average. Listing 49946551 had highest earning out of the top ten neighborhoods over a 30 day period; earning $29,940.  "
+
+
+
+
+
+
+
+
+
+Table of Contents 
+Assumptions & Change Log
+Data_Dictionary
+Listings_Clean
+Calendar
+Top_Neighborhoods
+Most_Popular_Property_Size
+Pop_Neighborhood_v_Prop_Size
+Top_Listing_Monthly_Revenue
