@@ -1,0 +1,26 @@
+Assumptions,
+"Data is scraped from publicly aviable information on Airbnb's website; the data was throughly look over, accounting for any missing values, and outliers ",
+Data was scraped 09/07/2022 and 09/08/2022,
+Listings are legitmate and Airbnb properties ,
+Hosts have provideds accurate information about their properties,
+Listed prices are base rates additional fees are not included,
+Hosts status are current and accurate ,
+Response rates and times represent the host activity ,
+Reviews are gunuine and from actual guests ,
+Reviews correlates with booking frequency ,
+,
+Change Log ,
+version 1.1-,Copied original listings and put them in a new sheet to refer back to 
+version 1.2-,Started to clean data with Data>Data Cleanup
+version 1.3-,Continued to clean data by using >def capitalize_first_letter(text): return text. capitalize()
+version 1.4-,"Filled empty cells with ""-"" or ""N/A""; using >Find and Replace and >=ARRAYFORMULA(IF(ISBLANK(range, "" "",range))"
+version 1.5-,Hid or grouped columns that were unuseful 
+version 1.6-,Changed the format of the cells with dates and currency 
+version 1.7-,Created and shorter URL link to create a cleaner look and hid the original link
+version 1.8-,"Created pivot tables to anser ""Which 10 neighborhoods are most attractive for vacation rentals?"""
+version 1.9-,"Added a new column called revenue_earned to both ""Listings_Clean"" and ""Calender"" to answer the question ""How much money did the most attractive listings generate?"""
+version 2.0-,Calcuated the revenue earned for each listings using >SUMIF formula 
+version 2.1- ,"Created the pivot table ""Top_Listing_Monthly_Revenue"" to answer questions in ""How munch money did the most attractive listings generate?"""
+version 2.2-,Added a new column called revenue_year 
+version 2.2-,Calculated the potential yearly earnings for each listings by multiplying the monthly earning by 12
+version 2.3-,Formatted the entire excel file for a cleaner look

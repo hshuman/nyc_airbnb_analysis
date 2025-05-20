@@ -1,0 +1,13 @@
+COUNTA of host_listings_count,bedrooms,,,,,,,,,
+neighborhood,1,2,studio,3,4,5,6,8,7,Grand Total
+West Village,59,18,11,10,3,,,,,101
+Upper West Side,107,57,23,27,2,3,,,,219
+Upper East Side,84,20,35,7,4,1,,1,,152
+Midtown,77,35,95,7,3,,,,,217
+Lower East Side,206,24,13,1,1,,1,,,246
+Hells Kitchen,110,84,26,18,4,,,,1,243
+Harlem,146,74,48,26,12,5,,,,311
+East Village,78,33,41,7,2,,,,,161
+East Harlem,62,41,21,9,4,,,,,137
+Chelsea,62,37,39,8,,,1,,,147
+Grand Total,991,423,352,120,35,9,2,1,1,1934
